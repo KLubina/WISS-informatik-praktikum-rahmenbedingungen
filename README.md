@@ -13,7 +13,7 @@ Die Rahmenbedingungen wurden als statische HTML-Seite erstellt und werden über 
 
 Hier ist eine Vorschau der Rahmenbedingungen:
 
-![Rahmenbedingungen Praktikum](titel.png)
+![Rahmenbedingungen Praktikum](pictures-for-readme/titel.png)
 
 ## Zugriff auf die vollständige Seite
 
