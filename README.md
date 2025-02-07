@@ -1,4 +1,4 @@
-# WISS Informatik Praktikum - Technische Implementierung
+# WISS Informatik Praktikum Rahmenbedingungen als Webseite
 
 ## Technische Umsetzung
 
